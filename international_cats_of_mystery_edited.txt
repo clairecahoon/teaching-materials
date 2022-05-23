@@ -9,7 +9,7 @@ Marcus;2019;21 Bird Watch Circle;;Austin;Texas;73301
 Tanvi;2017;4532 Tiny Mouse Street;Unit D;Dallas;TX;73303
 Lian;2008;3132 Goldfish Lane;;Ithaca;NY;14850
 Arturo;2014;5120 Kibbler Blvd.;;New York;New York;10001
-Silvia;2009;17001 Kling Street;;North Hollywood;CA;90812
+Silvia;1990;17001 Kling Street;;North Hollywood;CA;90812
 Celine;2007;2124 Bermuda Street;Apt. 3;San Francsico;California;94123
 Omar;2008;9 Catnado Way;258;Bellevue;WA;98004
 Niko;2016;4246 Scruffy Way;Apt. 19;Lincoln City;IN;47552
@@ -21,6 +21,6 @@ Darci;2007;3836 Sleepy Place;231;Minneapolis;MN;55407
 Koko;2016;5844 Perchcrest Court;;Germantown;TN;38138
 Mango;2009;202 Cuddle Ave.;;Green River;UT;84525
 Freya;2020;3532 Lazyport Circle.;;Buffalo;NY;14215
-Big Guy;2018;3932 Parrot Cove Blvd;;Ely;NV;89301
+Sunbeam;2018;3932 Parrot Cove Blvd;;Ely;NV;89301
 Fluffy;2013;504 Catfish Swamp Road;;Villanova;PA;19085
 Squeaky;2007;21 Kitten Mews Drive;Apt. 21;Chicago;IL;60629
