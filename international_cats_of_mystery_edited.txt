@@ -1,4 +1,4 @@
-Name;Joined;Address 1;Address 2;City;State;Zip Code;Subscriptions
+Name;Joined;Address 1;Address 2;City;State;Zip Code
 Bill;2015;12309 Scratch Tree Lane;Apt. 1;Beverly Hills;CA;90210
 Pete;2018;501 Grumpy Street;;Long Beach;California;90803
 Bob;2019;62 Ocean Catch Way;;Astoria;OR;97103
